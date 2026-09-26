@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Third Year B.Tech Computer Science Student
+🎓 Fourth Year B.Tech Computer Science Student
 
 🤖 Passionate about Artificial Intelligence & Machine Learning
 
@@ -25,7 +25,6 @@
 - Deep Learning
 - Generative AI
 - NLP
-- Computer Vision
 - MLOps
 
 💡 I enjoy solving real-world problems using AI.
@@ -40,8 +39,6 @@
 
 - Python
 - C++
-- Java
-- JavaScript
 - SQL
 
 ### AI / ML
@@ -51,7 +48,6 @@
 - Scikit-Learn
 - TensorFlow (Learning)
 - PyTorch (Learning)
-- OpenCV
 - Hugging Face
 - LangChain
 - RAG
@@ -62,15 +58,11 @@
 - HTML
 - CSS
 - Tailwind CSS
-- React
-- Node.js
-- Express
 
 ### Database
 
 - MySQL
 - Firebase
-- MongoDB
 
 ### Tools
 
@@ -79,7 +71,6 @@
 - VS Code
 - Streamlit
 - Google Colab
-- Postman
 - n8n
 
 ---
